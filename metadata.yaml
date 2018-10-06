@@ -21,5 +21,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Cherokee Nation of Indians. (1887 N 05 / 1883-1884 (pages 121-378))
 url: http://www.gutenberg.org/ebooks/46493
